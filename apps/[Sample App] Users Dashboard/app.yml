@@ -1,0 +1,9 @@
+version: 43.0.9
+pageUuid: 10962ac0-f633-11ed-bcab-674ad3c1e2f3
+appTemplate:
+  experimentalPerfFeatures:
+    object:
+      serverDepGraphEnabled: false
+      useRuntimeV2: false
+  rootScreen: null
+  version: 2.107.0
