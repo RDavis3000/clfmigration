@@ -4,7 +4,7 @@ databaseUsername: username
 dynamicallyQueryable: false
 editPrivilege: false
 environment: production
-host: www.someserver.com/server
+host: www.someserver.com/server22
 options:
   amazon_secret_access_key: ''
   api_key: ''
